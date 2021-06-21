@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC ## Mount the following data lake storage gen2 containers github
+# MAGIC ## Mount the following data lake storage gen2 containers git
 # MAGIC 1. raw
 # MAGIC 2. processed
 # MAGIC 3. lookup
